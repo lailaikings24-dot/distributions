@@ -1,4 +1,4 @@
-# [NodeSource](https://nodesource.com) N|Solid & Node.js Binary Distributions
+# [NodeSource](https://nodesource.com) N|Solid & Node.js Binary Distributions 
 
 [![NodeSource](images/ns-linux-distributions.svg)](https://nodesource.com)
 
